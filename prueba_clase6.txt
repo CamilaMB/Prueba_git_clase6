@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Hola GIT este sera mi primer commit
 Segunda linea que se realiza en clase
 Tercera linea ejercicio de Ramas en git desde master
+=======
+Hola GIT este sera mi primera linea para commit
+Segunda linea que se realiza en clase
+Tercera linea creacion de rama Desarrollo
+>>>>>>> desarrollo
